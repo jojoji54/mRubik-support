@@ -2,10 +2,9 @@ Soporte
 
 Soporte y contacto
 
-Centro de ayuda: [https://www.mrrubik.com
+Centro de ayuda: [https://www.mrrubik.com]
 
-Email: [mrrubikdev@gmail.com
-]
+Email: [mrrubikdev@gmail.com]
 
 Horario: L–V 9:00–18:00 (CET)
 
@@ -17,8 +16,7 @@ Transparencia con AEAT
 La app genera ficheros compatibles con Veri*Factu y permite su envío a PRE/PROD. No somos la AEAT ni actuamos en su nombre. Si el servicio de AEAT sufre interrupciones o cambios, pueden verse afectados los envíos.
 
 Accesibilidad
-Compromiso de accesibilidad: si necesitas ayuda para usar la app mediante tecnologías de asistencia, escríbenos a [accesibilidad@tu-dominio.com
-].
+Compromiso de accesibilidad: si necesitas ayuda para usar la app mediante tecnologías de asistencia, escríbenos a [mrrubikdev@gmail.com].
 
 Copyright
 
