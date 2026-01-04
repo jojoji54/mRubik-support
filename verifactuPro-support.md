@@ -23,7 +23,7 @@ Compromiso de accesibilidad: si necesitas ayuda para usar la app mediante tecnol
 Copyright
 
 © 2025 Mr Rubik.
-Todos los derechos reservados. Excel to Veri*Factu y su logotipo son marcas comerciales de [Nombre legal].
+Todos los derechos reservados. Excel to Veri*Factu y su logotipo son marcas comerciales de  Mr Rubik.
 “Veri*Factu” y “AEAT” son marcas o denominaciones de sus respectivos titulares. No existe afiliación, patrocinio ni respaldo por parte de dichos organismos.
 
 Licencias de terceros
